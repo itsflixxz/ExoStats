@@ -1,0 +1,9 @@
+name: ExoStats
+version: 1.0
+main: yoflixxz.exoStats.ExoStats
+api-version: '1.21'
+softdepend: [PlaceholderAPI]
+commands:
+  stats:
+    description: View player statistics
+    usage: /stats [player]
